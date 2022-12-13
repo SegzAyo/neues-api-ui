@@ -1,0 +1,82 @@
+C:/Users/SEAYO/Documents/NEUES/NeuesCore/bin/Debug/net6.0/Neues.Core.deps.json
+C:/Users/SEAYO/Documents/NEUES/NeuesCore/bin/Debug/net6.0/Neues.Core.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesCore/bin/Debug/net6.0/Neues.Core.pdb
+C:/Users/SEAYO/Documents/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.csproj.AssemblyReference.cache
+C:/Users/SEAYO/Documents/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEAYO/Documents/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.AssemblyInfoInputs.cache
+C:/Users/SEAYO/Documents/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.AssemblyInfo.cs
+C:/Users/SEAYO/Documents/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.csproj.CoreCompileInputs.cache
+C:/Users/SEAYO/Documents/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesCore/obj/Debug/net6.0/refint/Neues.Core.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.pdb
+C:/Users/SEAYO/Documents/NEUES/NeuesCore/obj/Debug/net6.0/ref/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/bin/Debug/net6.0/Neues.Core.deps.json
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/bin/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/bin/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.csproj.AssemblyReference.cache
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.AssemblyInfoInputs.cache
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.AssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.csproj.CoreCompileInputs.cache
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/obj/Debug/net6.0/refint/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/obj/Debug/net6.0/ref/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/bin/Debug/net6.0/Neues.Core.runtimeconfig.json
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.genruntimeconfig.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/bin/Debug/net6.0/Neues.Core.deps.json
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/bin/Debug/net6.0/Neues.Core.runtimeconfig.json
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/bin/Debug/net6.0/Neues.Core.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/bin/Debug/net6.0/Neues.Core.pdb
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.csproj.AssemblyReference.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.AssemblyInfoInputs.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.AssemblyInfo.cs
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.csproj.CoreCompileInputs.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/obj/Debug/net6.0/refint/Neues.Core.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.pdb
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/obj/Debug/net6.0/Neues.Core.genruntimeconfig.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesCore/obj/Debug/net6.0/ref/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/bin/Debug/net6.0/Neues.Core.deps.json
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/bin/Debug/net6.0/Neues.Core.runtimeconfig.json
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/bin/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/bin/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/obj/Debug/net6.0/Neues.Core.csproj.AssemblyReference.cache
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/obj/Debug/net6.0/Neues.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/obj/Debug/net6.0/Neues.Core.AssemblyInfoInputs.cache
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/obj/Debug/net6.0/Neues.Core.AssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/obj/Debug/net6.0/Neues.Core.csproj.CoreCompileInputs.cache
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/obj/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/obj/Debug/net6.0/refint/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/obj/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/obj/Debug/net6.0/Neues.Core.genruntimeconfig.cache
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesCore/obj/Debug/net6.0/ref/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/bin/Debug/net6.0/Neues.Core.deps.json
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/bin/Debug/net6.0/Neues.Core.runtimeconfig.json
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/bin/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/bin/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/obj/Debug/net6.0/Neues.Core.csproj.AssemblyReference.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/obj/Debug/net6.0/Neues.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/obj/Debug/net6.0/Neues.Core.AssemblyInfoInputs.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/obj/Debug/net6.0/Neues.Core.AssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/obj/Debug/net6.0/Neues.Core.csproj.CoreCompileInputs.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/obj/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/obj/Debug/net6.0/refint/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/obj/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/obj/Debug/net6.0/Neues.Core.genruntimeconfig.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesCore/obj/Debug/net6.0/ref/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/bin/Debug/net6.0/Neues.Core.deps.json
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/bin/Debug/net6.0/Neues.Core.runtimeconfig.json
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/bin/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/bin/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/obj/Debug/net6.0/Neues.Core.csproj.AssemblyReference.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/obj/Debug/net6.0/Neues.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/obj/Debug/net6.0/Neues.Core.AssemblyInfoInputs.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/obj/Debug/net6.0/Neues.Core.AssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/obj/Debug/net6.0/Neues.Core.csproj.CoreCompileInputs.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/obj/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/obj/Debug/net6.0/refint/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/obj/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/obj/Debug/net6.0/Neues.Core.genruntimeconfig.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesCore/obj/Debug/net6.0/ref/Neues.Core.dll

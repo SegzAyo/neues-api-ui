@@ -1,0 +1,94 @@
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.deps.json
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.pdb
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Core.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Core.pdb
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.AssemblyInfo.cs
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.CopyComplete
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/obj/Debug/net6.0/refint/Neues.Infrastructure.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.pdb
+C:/Users/SEAYO/Documents/NEUES/NeuesInfrastructure/obj/Debug/net6.0/ref/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.deps.json
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.pdb
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.AssemblyReference.cache
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.AssemblyInfoInputs.cache
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.AssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.CopyComplete
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/obj/Debug/net6.0/refint/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.pdb
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesInfrastructure/obj/Debug/net6.0/ref/Neues.Infrastructure.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.deps.json
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.pdb
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Core.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/bin/Debug/net6.0/Neues.Core.pdb
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.AssemblyInfo.cs
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.CopyComplete
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/obj/Debug/net6.0/refint/Neues.Infrastructure.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.pdb
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesInfrastructure/obj/Debug/net6.0/ref/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.deps.json
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.pdb
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/bin/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/bin/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.AssemblyReference.cache
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.AssemblyInfoInputs.cache
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.AssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.CopyComplete
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/obj/Debug/net6.0/refint/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.pdb
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesInfrastructure/obj/Debug/net6.0/ref/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.deps.json
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.runtimeconfig.json
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.pdb
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/bin/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/bin/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.AssemblyReference.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.AssemblyInfoInputs.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.AssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.CopyComplete
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/obj/Debug/net6.0/refint/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.pdb
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.genruntimeconfig.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesInfrastructure/obj/Debug/net6.0/ref/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.deps.json
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.runtimeconfig.json
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/bin/Debug/net6.0/Neues.Infrastructure.pdb
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/bin/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/bin/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.AssemblyReference.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.AssemblyInfoInputs.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.AssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.csproj.CopyComplete
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/obj/Debug/net6.0/refint/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.pdb
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/obj/Debug/net6.0/Neues.Infrastructure.genruntimeconfig.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesInfrastructure/obj/Debug/net6.0/ref/Neues.Infrastructure.dll

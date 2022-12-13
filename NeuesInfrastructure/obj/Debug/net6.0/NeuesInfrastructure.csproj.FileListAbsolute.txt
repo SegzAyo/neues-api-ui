@@ -1,0 +1,15 @@
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\obj\Debug\net6.0\NeuesInfrastructure.csproj.AssemblyReference.cache
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\obj\Debug\net6.0\NeuesInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\obj\Debug\net6.0\NeuesInfrastructure.AssemblyInfoInputs.cache
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\obj\Debug\net6.0\NeuesInfrastructure.AssemblyInfo.cs
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\obj\Debug\net6.0\NeuesInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\bin\Debug\net6.0\NeuesInfrastructure.deps.json
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\bin\Debug\net6.0\NeuesInfrastructure.dll
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\bin\Debug\net6.0\ref\NeuesInfrastructure.dll
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\bin\Debug\net6.0\NeuesInfrastructure.pdb
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\bin\Debug\net6.0\NeuesCore.dll
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\bin\Debug\net6.0\NeuesCore.pdb
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\obj\Debug\net6.0\NeuesInfrastructure.csproj.CopyComplete
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\obj\Debug\net6.0\NeuesInfrastructure.dll
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\obj\Debug\net6.0\ref\NeuesInfrastructure.dll
+C:\Users\SEAYO\Documents\NEUES\NeuesInfrastructure\obj\Debug\net6.0\NeuesInfrastructure.pdb

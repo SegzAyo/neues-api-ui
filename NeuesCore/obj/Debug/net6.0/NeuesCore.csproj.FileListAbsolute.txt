@@ -1,0 +1,12 @@
+C:\Users\SEAYO\Documents\NEUES\NeuesCore\obj\Debug\net6.0\NeuesCore.csproj.AssemblyReference.cache
+C:\Users\SEAYO\Documents\NEUES\NeuesCore\obj\Debug\net6.0\NeuesCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEAYO\Documents\NEUES\NeuesCore\obj\Debug\net6.0\NeuesCore.AssemblyInfoInputs.cache
+C:\Users\SEAYO\Documents\NEUES\NeuesCore\obj\Debug\net6.0\NeuesCore.AssemblyInfo.cs
+C:\Users\SEAYO\Documents\NEUES\NeuesCore\obj\Debug\net6.0\NeuesCore.csproj.CoreCompileInputs.cache
+C:\Users\SEAYO\Documents\NEUES\NeuesCore\bin\Debug\net6.0\NeuesCore.deps.json
+C:\Users\SEAYO\Documents\NEUES\NeuesCore\bin\Debug\net6.0\NeuesCore.dll
+C:\Users\SEAYO\Documents\NEUES\NeuesCore\bin\Debug\net6.0\ref\NeuesCore.dll
+C:\Users\SEAYO\Documents\NEUES\NeuesCore\bin\Debug\net6.0\NeuesCore.pdb
+C:\Users\SEAYO\Documents\NEUES\NeuesCore\obj\Debug\net6.0\NeuesCore.dll
+C:\Users\SEAYO\Documents\NEUES\NeuesCore\obj\Debug\net6.0\ref\NeuesCore.dll
+C:\Users\SEAYO\Documents\NEUES\NeuesCore\obj\Debug\net6.0\NeuesCore.pdb
